@@ -20,4 +20,8 @@ All contributions are welcome and, more than that, encouraged!
 ¡Feliz Cinco de Mayo en este año 2020 del virus pandémico!
 
 
+## License
+All contributions are made freely and "as is" and are covered under the Apache 2.0 Open Source licensing.
+
+ [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
 
