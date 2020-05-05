@@ -7,7 +7,7 @@ pyATS is a powerful multivendor module for Network Programmability and Automatio
 There is an active community on Cisco Webex Teams and hopefully soon on Cisco Communities.
 
 - WebEx Teams Space
-  Anyone can join this WebEx Teams space using https://eurl.io/#r18UzrQVror by finding it listed at https://eurl.io/
+  Anyone can join this WebEx Teams space using https://eurl.io/#r18UzrQVr or by finding it listed at https://eurl.io/
 
 - Cisco Community
 
