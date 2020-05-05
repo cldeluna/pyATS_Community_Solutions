@@ -82,7 +82,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Script Description",
                                      epilog="Usage: ' python nornir_get_genie_parse.py' ")
 
-    parser.add_argument('-c', '--command', help='Execute this show command. Default: show ip int brief', action='store',
+    parser.add_argument('-c', '--command', help='Execute this show command. Default: show version', action='store',
                         default='show version')
     arguments = parser.parse_args()
     main()
