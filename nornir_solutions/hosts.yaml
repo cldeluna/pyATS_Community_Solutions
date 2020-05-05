@@ -1,0 +1,10 @@
+---
+
+ios-xe-mgmt:
+  hostname: ios-xe-mgmt.cisco.com
+  groups: ['devnet_sandbox_iosxe']
+
+sbx-nxos-mgmt:
+  hostname: sbx-nxos-mgmt.cisco.com
+  groups: ['devnet_sandbox_nxos']
+

@@ -1,0 +1,13 @@
+---
+
+devnet_sandbox_iosxe:
+  platform: cisco_xe
+  username: root
+  password: D_Vay!_10&
+  port: 8181
+
+devnet_sandbox_nxos:
+  platform: cisco_nxos
+  username: admin
+  password: Admin_1234!
+  port: 8181
