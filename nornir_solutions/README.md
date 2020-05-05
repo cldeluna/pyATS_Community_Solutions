@@ -2,7 +2,7 @@
 
 #### nornir_get_genie_parse.py
 
-Script extracts a show command from a Nornir environment and then uses pyATS Genie to parse the show command output.
+Script extracts a show command from devices defined in a Nornir environment and then uses pyATS Genie to parse the show command output.
 
 ```
 (parsing) claudia@Claudias-iMac nornir_solutions % python nornir_get_genie_parse.py -h                
