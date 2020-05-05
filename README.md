@@ -15,7 +15,9 @@ There is an active community on Cisco Webex Teams and hopefully soon on Cisco Co
 
 This repository represents a collection of working solutions discussed among the pyATS community.
 
-All contributions are welcome!
+All contributions are welcome and, more than that, encouraged!
+
+¡Feliz Cinco de Mayo en este año 2020 del virus pandémico!
 
 
 

@@ -19,10 +19,16 @@ from nornir.plugins.functions.text import print_result
 
 
 def main():
+    """"
+    Simple script which instantiates a Nornir environment comprised of two DevNet Always on Sandboxes.
+    This is a "learning" script so there are many print statements and comments to illustrate each step
+    The purpose of this script is to show how output from Nornir can be fed to pyATS Genie for parsing
+    """
 
     # Create instance using default hosts.yaml and groups.yaml
     nr = InitNornir(config_file='config.yaml')
 
+    # Use dir to show what methods the nr object has
     # print(dir(nr))
     print("Hosts derived from the Inventory file are: \t{}".format(nr.inventory.hosts))
     print("Groups derived from the Inventory file are: \t{}".format(nr.inventory.groups))
