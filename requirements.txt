@@ -96,7 +96,7 @@ tqdm==4.46.0
 typing-extensions==3.7.4.2
 unicon==20.4
 unicon.plugins==20.4
-urllib3==1.25.9
+urllib3==1.26.5
 websocket-client==0.57.0
 xlrd==1.2.0
 XlsxWriter==1.2.8
