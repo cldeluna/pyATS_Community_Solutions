@@ -46,7 +46,7 @@ netaddr==0.7.19
 netmiko==2.4.2
 nornir==2.4.0
 nxapi-plumbing==0.5.2
-paramiko==2.7.1
+paramiko==2.10.1
 passlib==1.7.2
 pathspec==0.8.0
 ply==3.11
